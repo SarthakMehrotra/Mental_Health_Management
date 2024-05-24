@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Jung, Yuchae
+AU  - Yoon, Yong Ik
+PY  - 2017
+DA  - 2017/05/01
+TI  - Multi-level assessment model for wellness service based on human mental stress level
+JO  - Multimedia Tools and Applications
+SP  - 11305
+EP  - 11317
+VL  - 76
+IS  - 9
+AB  - In this paper, we measure human physiological changes from different body parts to quantify human mental stress level by using multimodal bio-sensors. By integrating these physiological responses, we generate bio-index and rule for the prediction of mental status, such as tension, normal, and relax. We also develop an inspection service middleware for analyzing health parameters such as electroencephalography (EEG), electrocardiography (ECG), oxygen saturation (SpO2), blood pressure (BP), and respiration rate (RR). In this service middleware, we use the multi-level assessment model for mental stress level that consists of three steps as follows; classification, reasoning, and decision making. The classification of datasets from bio-sensors is enabled by fuzzy logic and SVM algorithm. The reasoning uses the decision-tree model and random forest algorithm to classify the mental stress level from the health parameters. Finally, we propose a prediction model to make a decision for the wellness contents by using Expectation Maximization (EM).
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-016-3444-9
+DO  - 10.1007/s11042-016-3444-9
+ID  - Jung2017
+ER  - 
